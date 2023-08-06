@@ -10,7 +10,7 @@ An all-in-one content generation website powered by OpenAI and ReplicateAI
 
 Come see it for yourself!
 
-[Einstein website](https://ai-einstein.vercel.app/)
+[Einstein Website](https://ai-einstein.vercel.app/)
 
 ## Background and Inspiration
 
