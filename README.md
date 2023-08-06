@@ -2,6 +2,8 @@
 
 An all-in-one content generation website powered by OpenAI and ReplicateAI
 
+<img width="1000" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/aaronkjin/einstein/assets/58490258/ed47523f-9139-400e-af38-e71d57733e0d">
+
 
 
 ## Link to website
