@@ -69,7 +69,11 @@ And so, with unbridled enthusiasm, I present to you Einstein: an all-in-one, AI-
        3. CVV: 424
        4. Address: 4242 Patrice Rd, Newport Beach, CA 92663
        5. Phone #: +1 (111) 111-1111
-7. Now that you're subscribed to Einstein Pro, you have unlimited number of generations of the AI tools on the site. Congratulations!
+7. Now that you're subscribed to Einstein Pro, you have an unlimited number of generations of AI tools on the site. Congratulations!
+
+### Notes
+
+During the development of this project, I found immense fulfillment in witnessing the unparalleled creative potential of generative AI. Until now, most of my encounters with generative AI were driven by utilitarian purposes, focusing on solving practical problems. However, my journey with building Einstein has opened my eyes to a profound realization—generative AI models are not mere tools for mundane tasks but catalysts that can reshape the essence of human creativity. The fusion of AI technology with human imagination and ingenuity is a potent force—one that has the power to revolutionize not only the repetitive aspects of our lives but also the realms of art, storytelling, and innovation.  
 
 By: Aaron Jin
 
