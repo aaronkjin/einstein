@@ -22,7 +22,7 @@ But the allure of generative AI didn't stop at chatbots. I delved into various A
 
 And so, with unbridled enthusiasm, I present to you Einstein: an all-in-one, AI-powered content generation website. Imagine a canvas where AI converses effortlessly, images come to life from the depths of imagination, and music and videos manifest with artistic brilliance. Einstein is not just a tool; it's a gateway to the future of human-machine creativity. Whether you're a seasoned AI enthusiast or simply curious about the endless possibilities of generative AI, Einstein promises to inspire and empower you. Step into a world where creativity knows no bounds, where art and technology unite in seamless harmony.
 
-&mdash; Written by Einstein (2023)
+&mdash; Written by Aaron with Einstein (2023)
 
 
 ## Details and Features
