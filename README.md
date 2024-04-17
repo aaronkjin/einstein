@@ -57,25 +57,11 @@ An all-in-one content generation website powered by OpenAI and ReplicateAI. Allo
 
 ## Features
 
-### Generative AI Tools
-
-Utilizes ChatGPT for conversations, DALL-E for image generation, Zeroscope V2 and Riffusion from ReplicateAI for video and music generation.
-
-### Subscription Management
-
-Integrates Stripe for handling recurring payments and subscription cancellations.
-
-### Data Management
-
-Utilizes Prisma for database operations and securely stores user data/credentials.
-
-### UI/UX
-
-Features a responsive and animation-rich UI built with Tailwind CSS.
-
-### API and Server Management
-
-Includes comprehensive endpoint handling for RESTful services.
+- Generative AI Tools: Utilizes ChatGPT for conversations, DALL-E for image generation, Zeroscope V2 and Riffusion from ReplicateAI for video and music generation.
+- Subscription Management: Integrates Stripe for handling recurring payments and subscription cancellations.
+- Data Management: Utilizes Prisma for database operations and securely stores user data/credentials.
+- UI/UX: Features a responsive and animation-rich UI built with Tailwind CSS.
+- API and Server Management: Includes comprehensive endpoint handling for RESTful services.
 
 ## Background and Inspiration
 
