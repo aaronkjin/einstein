@@ -16,12 +16,8 @@ An all-in-one content generation website powered by OpenAI and ReplicateAI. Allo
 
 - The Pro tier is available at no cost as part of my development exercise with Stripe.
 - Users can simulate a subscription using dummy credit card details provided in the sign-up flow.
-    - Example:
-        - Credit Card #: 4242 4242 4242 4242
-        - Credit Card Month/Year: 04/24
-        - CVV: 424
-        - Address: 4242 Patrice Rd, Newport Beach, CA 92663
-        - Phone #: +1 (111) 111-1111
+    - Credit Card #: 4242 4242 4242 4242; Credit Card Month/Year: 04/24; CVV: 424; Address: 4242 Patrice Rd, Newport Beach, CA 92663; Phone #: +1 (111) 111-1111
+
 
 ## Technologies Used
 
@@ -57,13 +53,13 @@ An all-in-one content generation website powered by OpenAI and ReplicateAI. Allo
 
 ## Features
 
-- Generative AI Tools: Utilizes ChatGPT for conversations, DALL-E for image generation, Zeroscope V2 and Riffusion from ReplicateAI for video and music generation.
-- Subscription Management: Integrates Stripe for handling recurring payments and subscription cancellations.
-- Data Management: Utilizes Prisma for database operations and securely stores user data/credentials.
-- UI/UX: Features a responsive and animation-rich UI built with Tailwind CSS.
-- API and Server Management: Includes comprehensive endpoint handling for RESTful services.
+- Generative AI Tools: Utilizes ChatGPT for conversations, DALL-E for image generation, Zeroscope V2 and Riffusion from ReplicateAI for video and music generation
+- Subscription Management: Integrates Stripe for handling recurring payments and subscription cancellations
+- Data Management: Utilizes Prisma for database operations and securely stores user data/credentials
+- UI/UX: Features a responsive and animation-rich UI built with Tailwind CSS
+- API and Server Management: Includes comprehensive endpoint handling for RESTful services
 
-## Background and Inspiration
+## Background
 
 During the summer of 2023, I interned at Wagyu.ai, a generative AI start-up that provided a mobile experience for humanized AI personalities. Because of this experience, I was inspired by the potential of AI in various domains, thus beginning my project in building Einstein. Witnessing the capabilities of various AI tools sparked the idea to create a unified platform that blends technology with creativity.
 
